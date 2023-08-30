@@ -1,4 +1,4 @@
-### Hello there 😐 (Obi-Wan Kenobi voice)
+### Hello there 😐 (Obi-Wan's voice)
 
 <!--
 **rhadamez/rhadamez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
